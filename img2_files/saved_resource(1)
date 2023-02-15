@@ -1,0 +1,5 @@
+.post-content { color: #303336 }
+
+.highlights .excerpt, .listing-alt .content .excerpt { color: #303336 }
+
+
